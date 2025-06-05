@@ -33,8 +33,8 @@
 
     <section id="sobre">
       <h2>Sobre mim</h2>
-      <img src="minha-foto.jpg" alt="Sua foto">
-      <p>Breve descrição sobre você.</p>
+      <img src="minha-foto.jpg" alt="sua foto">
+      <p>Olá! Sou Leonardo Barreto de Souza Ceabra, um estudante na área de tecnologia, apaixonado por diversos genêros de entretenimento como fotografia, programas de tv e leitura. Estudo em período integral durante o dia, mas nas horas vagas você vai me encontrar tirando fotos de paisagens ou assisindo um interessante programa de tv. Acredito que o entretenimento seja uma porta de auto-conhecimento por meio da satisfação sobre um entretenimento em específico, pois através da Fotografia descobri meu apreço por registrar momentos, através de Programas de Tv ao assistir a diferentes personagens e situações, eu reflito sobre minhas próprias emoções, valores e opiniões, através da Leitura de livros que abordam temas como relacionamentos ou crescimento pessoal me ajudam a entender melhor minhas próprias experiências e desejos. </p>
       <ul>
         <li><a href="https://instagram.com/Barretohsz" target="_blank">Instagram</a></li>
         <li><a href="https://www.amazon.com.br/prime" target="_blank">Plataforma de Stream</a></li>
