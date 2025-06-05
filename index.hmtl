@@ -1,1 +1,51 @@
-" " 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Minha Página Web</title>
+  <link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+  <header>
+    <h1>Leonardo Barreto</h1>
+    <p>Compartilhando minhas paixões em filmes, livros e vida.</p>
+    <nav>
+      <ul>
+        <li><a href="#filme">Filme que vi</a></li>
+        <li><a href="#livro">Livro que li</a></li>
+        <li><a href="#sobre">Sobre mim</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="filme">
+      <h2>Uma Familia Extraordinária</h2>
+      <p>o filme "Uma Família Extraordinária". Ele conta a história da Bea, uma jovem que enfrenta os desafios típicos da adolescência, como amizades, escola e descobertas pessoais, mas também precisa lidar com uma situação bem especial: ela tem dois pais com deficiência intelectual. O filme mostra como Bea tenta equilibrar tudo isso, lidando com o amor, a responsabilidade e a compreensão. É uma história emocionante que nos faz refletir sobre o valor da família, do respeito às diferenças e da força que encontramos na união. Uma verdadeira inspiração!</p>
+    </section>
+
+    <section id="livro">
+      <h2>Percy Jackson & Os Olimpianos: O Ladrão de Raios</h2>
+      <img src="imagem-livro.jpg" alt="Imagem do livro">
+      <p>"Percy Jackson & Os Olimpianos: O Ladrão de Raios", é uma leitura super empolgante e cheia de aventura! Ele apresenta Percy, um garoto que descobre que é um semideus, filho de Poseidon, e embarca em uma jornada para impedir uma guerra entre os deuses. A história mistura mitologia grega com um mundo moderno de uma forma bem divertida e envolvente. É perfeito para quem gosta de ação, humor e uma pitada de magia! Se você ainda não leu, vale muito a pena dar uma chance, pois é uma introdução fantástica ao universo de Percy Jackson.</p>
+    </section>
+
+    <section id="sobre">
+      <h2>Sobre mim</h2>
+      <img src="minha-foto.jpg" alt="Sua foto">
+      <p>Breve descrição sobre você.</p>
+      <ul>
+        <li><a href="https://instagram.com/Barretohsz" target="_blank">Instagram</a></li>
+        <li><a href="https://www.amazon.com.br/prime" target="_blank">Plataforma de Stream</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 - Sua Página Web</p>
+  </footer>
+</body>
+</html>
+
+ 
