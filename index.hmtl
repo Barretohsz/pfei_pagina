@@ -33,7 +33,7 @@
 
     <section id="sobre">
       <h2>Sobre mim</h2>
-      <img src="IMG_E8454.jpg" alt="Sua foto">
+      <img src="minha-foto.jpg" alt="Sua foto">
       <p>Breve descrição sobre você.</p>
       <ul>
         <li><a href="https://instagram.com/Barretohsz" target="_blank">Instagram</a></li>
